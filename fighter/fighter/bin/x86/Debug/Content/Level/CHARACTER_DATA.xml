@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<characters>
+  <character>
+    <charName>john</charName>
+    <animationOffsets>0,0|132,0|0,0|0,67|0,0|0,0|64,67|0,0|262,0|162,67|130,67|0,0|197,67</animationOffsets>
+    <animationFrames>4,4,0,2,0,4,2,0,6,0,0,0,2</animationFrames>
+    <activeAnimationFrames>|||1|||1||||||</activeAnimationFrames>
+    <damage>0,0,0,8,0,0,8,0,0,0,0,0,0</damage>
+    <pushback>0,0,0,5,0,0,5,0,0,0,0,0,0</pushback>
+    <Bpushback>0,0,0,2,0,0,2,0,0,0,0,0,0</Bpushback>
+  </character>
+
+  <character>
+    <charName>jack</charName>
+    <animationOffsets>0,0|132,0|0,0|0,67|0,0|0,0|64,67|0,0|0,0|0,0|0,0|0,0|0,0</animationOffsets>
+    <animationFrames>4,4,0,2,0,0,2,0,0,0,0,0,0</animationFrames>
+    <activeAnimationFrames>|||1|||1||||||</activeAnimationFrames>
+    <damage>0,0,0,8,0,0,8,0,0,0,0,0,0</damage>
+    <pushback>0,0,0,10,0,0,10,0,0,0,0,0,0</pushback>
+    <Bpushback>0,0,0,4,0,0,4,0,0,0,0,0,0</Bpushback>
+  </character>
+
+  <character>
+    <charName>hitboxes</charName>
+    <animationOffsets>0,0|132,0|0,0|0,67|0,0|0,0|64,67|0,0|0,0|0,0|0,0|0,0|0,0</animationOffsets>
+    <animationFrames>4,4,0,2,0,0,2,0,0,0,0,0,0</animationFrames>
+    <activeAnimationFrames>|||1|||1||||||</activeAnimationFrames>
+    <damage>0,0,0,8,0,0,8,0,0,0,0,0,0</damage>
+    <pushback>0,0,0,10,0,0,10,0,0,0,0,0,0</pushback>
+    <Bpushback>0,0,0,4,0,0,4,0,0,0,0,0,0</Bpushback>
+  </character>
+</characters>

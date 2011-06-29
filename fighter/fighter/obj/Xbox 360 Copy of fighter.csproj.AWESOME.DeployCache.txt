@@ -1,0 +1,37 @@
+0c4ace10fdff47f59cc85b81ea5ddded
+0
+AWESOME
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\
+129472035420000000
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\GameThumbnail.png
+2011-04-05T19:46:03.6681000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\fighter.exe
+2011-04-13T21:24:29.1220000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\HUD\healthBar.xnb
+2011-04-13T21:24:20.5130000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\HUD\pressStart.xnb
+2011-04-13T21:24:22.2430000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Level\jack.xnb
+2011-04-13T21:24:28.4730000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Level\john.xnb
+2011-04-13T21:24:20.9830000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Level\testBG.xnb
+2011-04-13T21:24:22.1730000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\BLINK_START.xnb
+2011-04-13T21:24:23.9530000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\door.xnb
+2011-04-13T21:24:22.5430000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\mainFont.xnb
+2011-04-13T21:24:28.8830000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\pressStartbg.xnb
+2011-04-13T21:24:23.6530000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\TILEME.xnb
+2011-04-13T21:24:23.8530000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\Char_Select\char_select.xnb
+2011-04-13T21:24:27.7730000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\Char_Select\jackPor.xnb
+2011-04-13T21:24:28.5830000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\Char_Select\johnPor.xnb
+2011-04-13T21:24:27.8830000Z
+C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\Char_Select\player_select.xnb
+2011-04-13T21:24:28.0030000Z

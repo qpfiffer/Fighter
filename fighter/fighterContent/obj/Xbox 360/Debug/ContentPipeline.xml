@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>HUD\healthBar.png</Source>
+      <Name>HUD\healthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\HUD\healthBar.xnb</Output>
+      <Time>2011-04-05T12:47:46.8441-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\john.png</Source>
+      <Name>Level\john</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Level\john.xnb</Output>
+      <Time>2011-04-05T12:47:46.8541-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\testBG.png</Source>
+      <Name>Level\testBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Level\testBG.xnb</Output>
+      <Time>2011-04-05T12:47:46.8841-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\pressStart.png</Source>
+      <Name>HUD\pressStart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\HUD\pressStart.xnb</Output>
+      <Time>2011-04-05T12:47:46.8841-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\door.png</Source>
+      <Name>Menu\door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\door.xnb</Output>
+      <Time>2011-04-05T15:48:08.0451-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\pressStartbg.png</Source>
+      <Name>Menu\pressStartbg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\pressStartbg.xnb</Output>
+      <Time>2011-04-05T15:48:08.0651-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\TILEME.png</Source>
+      <Name>Menu\TILEME</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\TILEME.xnb</Output>
+      <Time>2011-04-05T15:48:08.0651-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\BLINK_START.png</Source>
+      <Name>Menu\BLINK_START</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\BLINK_START.xnb</Output>
+      <Time>2011-04-07T14:49:42.3986-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Char_Select\char_select.png</Source>
+      <Name>Menu\Char_Select\char_select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\Char_Select\char_select.xnb</Output>
+      <Time>2011-04-08T11:54:41.2786-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Char_Select\johnPor.png</Source>
+      <Name>Menu\Char_Select\johnPor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\Char_Select\johnPor.xnb</Output>
+      <Time>2011-04-08T12:00:47.5136-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Char_Select\player_select.png</Source>
+      <Name>Menu\Char_Select\player_select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\Char_Select\player_select.xnb</Output>
+      <Time>2011-04-12T13:49:31.725-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\jack.png</Source>
+      <Name>Level\jack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Level\jack.xnb</Output>
+      <Time>2011-04-12T14:36:58.366-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Char_Select\jackPor.png</Source>
+      <Name>Menu\Char_Select\jackPor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\Char_Select\jackPor.xnb</Output>
+      <Time>2011-04-12T14:40:57.16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\mainFont.spritefont</Source>
+      <Name>Menu\mainFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\Menu\mainFont.xnb</Output>
+      <Time>2011-04-07T20:12:32.51735-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighterContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighterContent\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\quinlan\documents\visual studio 2010\Projects\fighter\fighter\fighter\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-03-28T22:13:55.02475-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
